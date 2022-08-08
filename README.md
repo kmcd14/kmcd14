@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katie</h1>
 <h3 align="center">HDip in Science in Computing (Data Analytics) student, working with | Python | SQL | Tableau | Power BI | Excel</h3>
 
-- 🔭 I’m currently working on **a personal portfolio site**
+- 🔭 I’m currently developing my SQL skills
 
 - 👯 I’m looking to collaborate on **data projects**
 
