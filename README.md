@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Katie</h1>
 <h3 align="center">HDip in Science in Computing (Data Analytics) student, working with | Python | SQL | Tableau | Power BI | Excel</h3>
 
-- 🔭 I’m currently developing my SQL skills
+- 🔭 I’m in my final semester of HDip in Science in Computing in Data Analytics, my current modules are Data Representation & Multi-Paradigm Programming. 
 
-- 👯 I’m looking to collaborate on **data projects**
+- 👯 I’m looking for my first job in the Data Analyst field & to collaborate on **data projects**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/kmcd14?tab=repositories](https://github.com/kmcd14?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/kmcd14?tab=repositories](https://github.com/kmcd14?tab=repositories).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
