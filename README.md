@@ -3,7 +3,7 @@
 
 - 🔭 I have just completed a HDip in Science in Computing in Data Analytics. 
 
-- 💻 Currently working as a Graduate Data Analyst.
+- 💻 Currently working as a Data Analyst.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
